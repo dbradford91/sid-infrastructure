@@ -1,0 +1,19 @@
+{
+  "name": "sid-infrastructure",
+  "version": "0.0.1",
+  "description": "basic infrastructure to SID app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbradford91/sid-infrastructure.git"
+  },
+  "author": "dan & gareth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbradford91/sid-infrastructure/issues"
+  },
+  "homepage": "https://github.com/dbradford91/sid-infrastructure#readme"
+}
